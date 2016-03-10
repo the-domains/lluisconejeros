@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.6365498479913205
-  lightness: 0.36908646582592874
-  rhythmicContrast: 0.8845593804216643
-  saturation: 0.3558090907300002
+    - '#C0C8C0'
+    - '#582820'
+    - '#A86860'
+    - '#904840'
+    - '#000000'
+  brandStrength: 0.636549
+  lightness: 0.369086
+  rhythmicContrast: 0.884559
+  saturation: 0.355809
 cta: {}
-layout_spectrum: 0.9103325317906954
+layout_spectrum: 0.910332
 name: lluisconejeros
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.45185116002532166
+typography_spectrum: 0.451851
