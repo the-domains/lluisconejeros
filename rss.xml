@@ -4,8 +4,15 @@
         <description><![CDATA[Quantum Bodywork]]></description>
         <link>http://quantumbodywork.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 04:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 04:05:25 GMT</lastBuildDate>
         <atom:link href="http://quantumbodywork.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nuad]]></title>
+            <description><![CDATA[<p>Nuad means "ancient, healing touch"It was widely distributed in Southeast Asia around 500 BC by buddhist monks. Today Nuad is practised mainly in Thailand as a way of preventive healthcare as well asa supporting measure in case of illness. During a state of inner awareness Metta ("loving kindness") and Karuna ("empathy, sympathy") are transferred.</p>]]></description>
+            <link>http://quantumbodywork.com/nuad/index.html</link>
+            <guid isPermaLink="false">2a49edfe-5668-4a8a-b977-84a3e214998c</guid>
+            <pubDate>Mon, 04 Jul 2016 04:05:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9f643c9-45e5-48d7-b6af-6e40e622990e.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>http://quantumbodywork.com/contact-me/index.html</link>
             <guid isPermaLink="false">520d849e-c37b-49e7-ad54-3708036899d0</guid>
             <pubDate>Mon, 04 Jul 2016 04:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nuad]]></title>
-            <description><![CDATA[<p>Nuad means "ancient, healing touch"It was widely distributed in Southeast Asia around 500 BC by buddhist monks. Today Nuad is practised mainly in Thailand as a way of preventive healthcare as well asa supporting measure in case of illness. During a state of inner awareness Metta ("loving kindness") and Karuna ("empathy, sympathy") are transferred.</p>]]></description>
-            <link>http://quantumbodywork.com/nuad/index.html</link>
-            <guid isPermaLink="false">2a49edfe-5668-4a8a-b977-84a3e214998c</guid>
-            <pubDate>Mon, 04 Jul 2016 04:00:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
